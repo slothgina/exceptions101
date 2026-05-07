@@ -1,0 +1,14 @@
+C:\Users\ginag\excepyions101\bin\Debug\net10.0\excepyions101.exe
+C:\Users\ginag\excepyions101\bin\Debug\net10.0\excepyions101.deps.json
+C:\Users\ginag\excepyions101\bin\Debug\net10.0\excepyions101.runtimeconfig.json
+C:\Users\ginag\excepyions101\bin\Debug\net10.0\excepyions101.dll
+C:\Users\ginag\excepyions101\bin\Debug\net10.0\excepyions101.pdb
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.AssemblyInfoInputs.cache
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.AssemblyInfo.cs
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.csproj.CoreCompileInputs.cache
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.dll
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\refint\excepyions101.dll
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.pdb
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\excepyions101.genruntimeconfig.cache
+C:\Users\ginag\excepyions101\obj\Debug\net10.0\ref\excepyions101.dll
