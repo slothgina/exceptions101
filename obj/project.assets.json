@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ginag\\excepyions101\\excepyions101.csproj",
+      "projectUniqueName": "C:\\Users\\ginag\\exceptions101\\excepyions101.csproj",
       "projectName": "excepyions101",
-      "projectPath": "C:\\Users\\ginag\\excepyions101\\excepyions101.csproj",
+      "projectPath": "C:\\Users\\ginag\\exceptions101\\excepyions101.csproj",
       "packagesPath": "C:\\Users\\ginag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ginag\\excepyions101\\obj\\",
+      "outputPath": "C:\\Users\\ginag\\exceptions101\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ginag\\AppData\\Roaming\\NuGet\\NuGet.Config"
