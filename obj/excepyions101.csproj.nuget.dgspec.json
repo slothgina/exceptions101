@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ginag\\exceptions101\\excepyions101.csproj": {}
+    "c:\\Users\\ginag\\exceptions101\\excepyions101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ginag\\exceptions101\\excepyions101.csproj": {
+    "c:\\Users\\ginag\\exceptions101\\excepyions101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ginag\\exceptions101\\excepyions101.csproj",
+        "projectUniqueName": "c:\\Users\\ginag\\exceptions101\\excepyions101.csproj",
         "projectName": "excepyions101",
-        "projectPath": "C:\\Users\\ginag\\exceptions101\\excepyions101.csproj",
+        "projectPath": "c:\\Users\\ginag\\exceptions101\\excepyions101.csproj",
         "packagesPath": "C:\\Users\\ginag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ginag\\exceptions101\\obj\\",
+        "outputPath": "c:\\Users\\ginag\\exceptions101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ginag\\AppData\\Roaming\\NuGet\\NuGet.Config"
